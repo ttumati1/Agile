@@ -9,7 +9,7 @@ SDLC:
 Agile:
 It is a set of principles that help break down the project into several dynamic phases aka sprints, to deliver projects faster.
 
-Scrum: It is a framework that is used to build a project in a series of fixed-length iterations aka Sprints.
+Scrum: It is a framework that is used to build a project in a series of fixed-length iterations aka Sprints. Each sprint is divided by 2 weeks.
 
 Scrum Artifacts: Agile scrum artifacts are information that a scrum team and stakeholders use to detail the product being developed, actions to produce it, and the actions performed during the project.
 
